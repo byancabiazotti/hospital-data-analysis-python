@@ -1,28 +1,28 @@
-# Hospital Readmission Analysis with Python
+# Análise de Readmissão Hospitalar com Python
 
-## Objective
-Analyze hospital patient readmission data to identify patterns related to diagnoses, length of stay, and readmission risk.
+## Objetivo
+Analisar dados de readmissão hospitalar para identificar padrões relacionados aos diagnósticos, tempo de internação e risco de readmissão de pacientes.
 
-## Dataset
+## Base de Dados
 Hospital Patient Readmission Dataset (Kaggle)
 
-## Tools Used
+## Ferramentas Utilizadas
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-## Analysis Performed
-- Data loading and exploration
-- Data structure analysis
-- Statistical summary
-- Most frequent diagnoses analysis
-- Data visualization
+## Análises Realizadas
+- Importação e exploração dos dados
+- Análise da estrutura da base
+- Estatísticas descritivas
+- Identificação dos diagnósticos mais frequentes
+- Visualização de dados com gráfico
 
-## Key Insight
-Diabetes and Hypertension were the most frequent diagnoses among hospitalized patients.
+## Insight Principal
+A análise mostrou que Diabetes e Hipertensão foram os diagnósticos mais frequentes entre os pacientes hospitalizados, indicando uma alta demanda por cuidados relacionados a doenças crônicas.
 
-## Files
+## Arquivos do Projeto
 - hospital_analysis.ipynb
 - hospital_readmission_dataset.csv
 - top_diagnosticos.png
